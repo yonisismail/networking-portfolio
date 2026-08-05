@@ -22,7 +22,7 @@ A small home office network featuring:
 - HTTP Web Server
 - ICMP connectivity testing
 
-📁 Project Folder: `Home-Office-Network`
+📁 **Project Folder:** [Home-Office-Network](Home-Office-Network/)
 
 ---
 
